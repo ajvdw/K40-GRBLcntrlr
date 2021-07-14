@@ -18,6 +18,7 @@ K40 GRBLCNTRLR v0.9 in situ.
 - 2x StepStick DRV8825 or A4988
 - 2x resistor 4K7 1/4W
 - 1x resisitor 100K 1/4W
+- 2x elect.cap. 47uF 36V
 - 1x MOSFET N-Channel TO220
 - 1x 1.25Mm Ffc/Fpc Connector 12P
 - 2x JST XH2.54 4P 
