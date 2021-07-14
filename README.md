@@ -9,3 +9,20 @@ Firmware is forked from https://github.com/bdring/Grbl_Esp32, I only added a mac
 
 ![image](https://github.com/ajvdw/k40_GRBLcntrlr/blob/main/media/k40grblcntrlr.jpg)
 K40 GRBLCNTRLR v0.9 in situ.
+
+
+B.O.M.
+
+1x PCB
+1x Ttgo Wemos Mini D1 ESP32 Wifi + Bluetooth CP2104 Module
+2x StepStick DRV8825 or A4988
+2x resistor 4K7 1/4W
+1x resisitor 100K 1/4W
+1x MOSFET NPN TO220
+1x 1.25Mm Ffc/Fpc Connector 12P
+2x JST XH2.54 4P 
+1x JST XH2.54 5P 
+1x Micro Sd Tf Card Memory Shield Module Spi Voor Arduino
+1x Terminal conn 5.1mm 4P
+
+Shipping cost excluded, it should be less than 20$ (Aliexpress).
