@@ -22,7 +22,7 @@ K40 GRBLCNTRLR v0.9 in situ.
 - 1x 1.25Mm Ffc/Fpc Connector 12P
 - 2x JST XH2.54 4P 
 - 1x JST XH2.54 5P 
-- 1x Micro Sd Tf Card Memory Shield Module SPI for Arduino
-- 1x Terminal conn 5.1mm 4P
+- 1x Micro Sd Tf Card Memory Shield Module SPI for Arduino 3.3V
+- 1x Term.conn 5.1mm 4P
 
 Total cost should be less than 20$.
