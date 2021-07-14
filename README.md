@@ -1,6 +1,6 @@
-# k40_GRBLcntrlr
+# k40 GRBL cntrlr
  K40 ESP32 GRBL Controller  
 
-Firmware is cloned from https://github.com/bdring/Grbl_Esp32
+Firmware is forked from https://github.com/bdring/Grbl_Esp32
 
 
