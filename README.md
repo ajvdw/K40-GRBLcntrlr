@@ -31,8 +31,8 @@ K40 GRBLCNTRLR v0.9 in situ.
 
 1x JST XH2.54 5P 
 
-1x Micro Sd Tf Card Memory Shield Module Spi Voor Arduino
+1x Micro Sd Tf Card Memory Shield Module SPI for Arduino
 
 1x Terminal conn 5.1mm 4P
 
-Shipping cost excluded, it should be less than 20$ (Aliexpress).
+Total cost should be less than 20$.
