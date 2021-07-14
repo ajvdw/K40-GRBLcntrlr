@@ -1,4 +1,4 @@
-# k40 GRBL cntrlr
+# K40 GRBL cntrlr
  K40 ESP32 GRBL Controller.
  
 This is a replacement for the M2 Nano controller. 
