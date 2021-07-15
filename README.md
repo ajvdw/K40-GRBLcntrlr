@@ -4,6 +4,7 @@
 This is a replacement for the M2 Nano controller. 
 It supports GRBL 1.1 and raster engraving with grayscales.
 Since the controller is based on ESP32 it supports Serial, Bluetooth and Wifi communications as well as working offline through the use of an SDCard. 
+Designed with DIY in mind, all through-hole components or through-hole modules.
 
 Firmware is forked from https://github.com/bdring/Grbl_Esp32, I only added a machine definition to it. Instructions how to build the software can be found there as well.
 
