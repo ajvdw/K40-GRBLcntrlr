@@ -16147,7 +16147,7 @@ Feel free to contact us at &lt;a href="mailto:Support@PCBLayout.com"&gt;Support@
 <part name="A4988[Y]" library="Clean-Kong" deviceset="BOARD_A4988" device="" value="YMOTOR"/>
 <part name="WEMOS_ESP-32_D1" library="MH-ET_ESP32_D1_MINI" deviceset="MH-ET_ESP32_D1_MINI" device=""/>
 <part name="POWER" library="Wurth_Elektronik_Electromechanic_Terminal_Blocks_Connectors_rev19b" library_urn="urn:adsk.eagle:library:7556913" deviceset="691371700004B" device="" package3d_urn="urn:adsk.eagle:package:7559364/3"/>
-<part name="Q2" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="MOSFET-N" device="GDS_TO220V" package3d_urn="urn:adsk.eagle:package:6240882/1" value="2N7002"/>
+<part name="Q2" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="MOSFET-N" device="GDS_TO220V" package3d_urn="urn:adsk.eagle:package:6240882/1" value="p75nf75"/>
 <part name="GND1" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="R1" library="Clean-Kong" deviceset="R-EU_" device="V234/12" value="100k"/>
 <part name="HOME" library="customaj" deviceset="B5B-XH-A(LF)(SN)" device=""/>

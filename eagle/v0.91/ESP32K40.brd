@@ -1979,7 +1979,7 @@ design rules under a new name.</description>
 <attribute name="NAME" x="58.669" y="3.0855" size="1.27" layer="25" rot="R90"/>
 <attribute name="VALUE" x="66.964" y="-1.0466" size="1.27" layer="27"/>
 </element>
-<element name="Q2" library="adafruit" library_urn="urn:adsk.eagle:library:420" package="TO220V" package3d_urn="urn:adsk.eagle:package:6240882/1" value="2N7002" x="49.53" y="9.779" smashed="yes">
+<element name="Q2" library="adafruit" library_urn="urn:adsk.eagle:library:420" package="TO220V" package3d_urn="urn:adsk.eagle:package:6240882/1" value="p75nf75" x="49.53" y="9.779" smashed="yes">
 <attribute name="NAME" x="55.88" y="7.5438" size="1.27" layer="25" ratio="10"/>
 <attribute name="VALUE" x="46.99" y="9.779" size="1.27" layer="27" ratio="10"/>
 </element>
