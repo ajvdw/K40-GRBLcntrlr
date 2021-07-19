@@ -18,7 +18,7 @@ K40 GRBLCNTRLR v0.9 in situ.
 - 1x Ttgo Wemos Mini D1 ESP32 Wifi + Bluetooth CP2104 Module
 - 2x StepStick DRV8825 or A4988
 - 2x resistor 4K7 1/4W
-- 1x resisitor 100K 1/4W
+- 1x resistor 100K 1/4W
 - 2x elect.cap. 47uF 36V
 - 1x MOSFET N-Channel p75nf75 (similar to TO220)
 - 1x 1.25Mm Ffc/Fpc Connector 12P
